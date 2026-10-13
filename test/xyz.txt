@@ -1,0 +1,1 @@
+Burada ilgili xyz.txt dosyasının içeriği yer alır
